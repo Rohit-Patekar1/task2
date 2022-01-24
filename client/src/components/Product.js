@@ -13,6 +13,7 @@ const Product = () => {
         if (data.length == 0) {
 
 
+
             fetch("https://s3.amazonaws.com/open-to-cors/assignment.json")
                 .then(res => res.json())
                 .then(data => setData(data))
