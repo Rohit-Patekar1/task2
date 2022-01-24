@@ -1,0 +1,46 @@
+.ht
+{
+    height: 140vh;
+}
+
+.pd-6
+{
+    margin-top: 20px;
+}
+.pd-4
+{
+    margin-left: 60px;
+}
+.pd-3
+{
+    margin-left: 100px;
+}
+
+.pd-2
+{
+    margin-left: 90px;
+}
+
+.pd-1
+{
+    margin-left: 22px;
+}
+
+.pd-0
+{
+    
+    margin-left: 75px;
+}
+
+.mg-1
+{
+    margin-bottom: 30px;
+}
+
+.mg3
+{
+    position: relative;
+    float: right;
+    bottom: -30px;
+
+}
