@@ -25,4 +25,4 @@ app.post('/upload', (req, res) => {
   });
 });
 
-app.listen(5000, () => console.log('Server Started...'));
+app.listen(process.env.PORT, () => console.log('Server Started on port '+process.env.PORT));
