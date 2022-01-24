@@ -20,9 +20,11 @@ const FileUpload = ({ history }) => {
     e.preventDefault();
     const formData = new FormData();
     formData.append('file', file);
-
+//   
     try {
-      const res = await axios.post('/upload', formData, {
+      // const res = await axios.post('/upload', formData, {
+      const res = await axios.post('https://enigmatic-escarpment-46160.herokuapp.com/upload', formData, {
+
         headers: {
           'Content-Type': 'multipart/form-data'
         },
