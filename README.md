@@ -8,3 +8,17 @@
 
 3) Screenshot of handling box
 ![image](https://user-images.githubusercontent.com/64318761/150822735-12b9f470-749a-463d-9852-b26d6c83eb60.png)
+
+4)Screenshot of handling box shifting
+![image](https://user-images.githubusercontent.com/64318761/150823164-4cd581e4-2d6d-4066-900f-7c9b3fcb7543.png)
+
+5)Screenshot of fetched Product based on selected field
+![image](https://user-images.githubusercontent.com/64318761/150823474-c5dff4f7-9602-4947-9191-88c728f521c5.png)
+
+
+6)
+![image](https://user-images.githubusercontent.com/64318761/150823748-6b6fc36c-0975-4ac3-b39c-3f42358b6c93.png)
+
+
+7)
+![image](https://user-images.githubusercontent.com/64318761/150823883-6ceb5c62-b54a-4aa8-a540-fac13c1c0e1c.png)
